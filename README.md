@@ -10,3 +10,5 @@
 <img width="559" alt="Captura de pantalla 2024-07-03 a la(s) 1 47 05 p  m" src="https://github.com/Foxuno/MOBDEV_COUNTRYLIST/assets/58057744/9d9cedfd-c5a8-4e71-90a2-8971d65f1414">
 
 <img width="559" alt="Captura de pantalla 2024-07-03 a la(s) 1 34 46 p  m" src="https://github.com/Foxuno/MOBDEV_COUNTRYLIST/assets/58057744/b88a45c4-2e11-4646-bbd4-47eedbcc377d">
+
+**The retry to reconnect to the API, takes a few seconds**
